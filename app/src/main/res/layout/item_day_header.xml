@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="wrap_content"
+    android:orientation="vertical"
+    android:paddingTop="16dp"
+    android:paddingBottom="4dp"
+    android:background="@color/background">
+
+    <TextView
+        android:id="@+id/tvDayName"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginHorizontal="16dp"
+        android:background="@drawable/bg_day_header"
+        android:paddingHorizontal="16dp"
+        android:paddingVertical="8dp"
+        android:text="Lundi"
+        android:textAllCaps="true"
+        android:textColor="@color/on_surface_variant"
+        android:textSize="14sp"
+        android:textStyle="bold"
+        android:letterSpacing="0.05" />
+</LinearLayout>
