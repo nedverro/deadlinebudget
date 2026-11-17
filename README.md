@@ -60,4 +60,4 @@ Data is stored locally on the phone (no server). Passwords are stored in the loc
 
 ## Author
 
-**Riyad Nouar** — Computer Engineering student (Cybersecurity), UIR
+**Riyad Nouar**
